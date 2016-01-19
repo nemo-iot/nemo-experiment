@@ -1,3 +1,5 @@
+//this script trying to encode file to base64 and decoded it again
+
 var fs = require('fs');
 
 var loadBuffer = function(fn){
