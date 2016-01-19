@@ -1,0 +1,16 @@
+{
+  "name": "blobpost",
+  "version": "1.0.0",
+  "description": "blob post for NEMO experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nemo",
+    "blob"
+  ],
+  "author": "Abid Famasya <ping@famasya.com> (http://famasya.com/)",
+  "license": "ISC",
+  "dependencies": {}
+}
